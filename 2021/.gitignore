@@ -1,0 +1,12 @@
+# To ignore binaries gen'd by haskell
+# Ignore all
+# Unignore all with extensions
+# Unignore all dirs
+*
+!*.*
+!*/
+
+.history
+
+*.hi
+*.o
